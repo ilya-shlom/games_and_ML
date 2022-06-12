@@ -1,4 +1,4 @@
 # games_and_ML
-*Задание выполнено в рамках лекционного ДЗ-4 по ДМиТИ ([Ссылка на задание](https://docs.google.com/document/d/12KgcBxp2nowimJlgqwT1E5rCzpHe2dnwELoGraQKqOI/edit)*
+*Задание выполнено в рамках лекционного ДЗ-4 по ДМиТИ ([Ссылка на задание](https://docs.google.com/document/d/12KgcBxp2nowimJlgqwT1E5rCzpHe2dnwELoGraQKqOI/edit))*
 
 Программа разбита на несколько файлов для удобства прочтения, также реализована функция записи результатов вычислений в файл формата csv
